@@ -39,6 +39,8 @@ nav ul button{
 
 }
 
+
+
 .logo{
     font-weight: bold;
     /* margin-left: 5px; */
@@ -254,3 +256,24 @@ footer nav ul{
 footer nav li a{
     color: black;
 }
+
+.hvbutton{
+    align-content: center;
+   
+
+    background-color: blue;
+
+    color:rgb(243, 243, 252);
+    width: 150px;
+    height: 30px;
+
+    border-radius: 9px;
+
+    border-style: none;
+}
+
+.hvbutton:hover{
+    background-color: brown;
+}
+
+
