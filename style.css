@@ -185,3 +185,37 @@ nav ul li a{
     font-size: 3rem;
     color: blue;
 }
+
+.sec3{
+
+    display:flex;
+    width: 70%;
+
+    /* margin-top:100px;
+    margin-left: 50px; */
+
+    height: 300px;
+
+    margin:0 auto;
+    margin-top: 50px;
+
+    border:2px solid rgb(244, 241, 241);
+    border-radius: 4px;
+
+    justify-content: space-evenly;
+
+
+    background-color: rgb(225, 225, 244);
+    align-items: center;
+    
+}
+
+.left3{
+    width:200px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.right3{
+    /* height: 350px; */
+}
