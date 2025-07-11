@@ -1,3 +1,6 @@
+  
+
+
 .banner{
     background-image: url("Assets/Hero-bg.png");
 
@@ -88,4 +91,56 @@ nav ul li a{
     border-radius: 9px;
 
     border-style: none;
+}
+
+
+
+.sec1{
+    display:flex;
+
+    width: 70%;
+
+    /* margin-top:100px;
+    margin-left: 50px; */
+
+    margin:0 auto;
+    margin-top: 50px;
+
+    border:2px solid rgb(244, 241, 241);
+    border-radius: 4px;
+
+    justify-content: space-between;
+
+
+    background-color: rgb(225, 225, 244);
+    
+
+
+}
+.left{
+    width: 300px;
+    margin-left: 20px;
+}
+.sec1 h4{
+    font-size: large;
+}
+.sec1 img{
+    height: 200px;
+    border-radius: 6px;
+}
+
+.sec1 button{
+    align-content: center;
+   
+
+    background-color: blue;
+
+    color:rgb(243, 243, 252);
+    width: 150px;
+    height: 30px;
+
+    border-radius: 9px;
+
+    border-style: none;
+
 }
