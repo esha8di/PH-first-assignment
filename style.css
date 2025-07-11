@@ -1,3 +1,91 @@
-p{
-    color: blueviolet;
+.banner{
+    background-image: url("Assets/Hero-bg.png");
+
+    background-size: cover;
+    background-position: center;
+
+    /* width: 98vw; */
+    height:50vh;
+    border: 2px solid rgb(239, 234, 227);
+
+
+
+
+    
+}
+
+nav ul{
+    display:flex;
+    justify-content: space-between;
+}
+
+nav ul button{
+    align-content: center;
+    /* margin-left: 10%;
+    margin-right: 30px; */
+
+    background-color: blue;
+
+    color:rgb(243, 243, 252);
+    width: 100px;
+    height: 30px;
+
+    border-radius: 9px;
+
+    border-style: none;
+
+}
+
+.logo{
+    font-weight: bold;
+    /* margin-left: 5px; */
+
+}
+
+nav li{
+    list-style: none;
+    
+}
+
+nav ul li a{
+    margin-right: 20px;
+    margin-left: 20px;
+
+    text-decoration: none;
+
+    color:blue
+    
+
+    
+}
+
+
+.heading {
+    
+    width: 30vw;
+
+
+    
+    
+
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    margin-top: 5%;
+
+    
+}
+.heading button{
+    align-content: center;
+    margin-left: 10%;
+
+    background-color: blue;
+
+    color:rgb(243, 243, 252);
+    width: 100px;
+    height: 30px;
+
+    border-radius: 9px;
+
+    border-style: none;
 }
