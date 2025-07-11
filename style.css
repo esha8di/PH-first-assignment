@@ -144,3 +144,44 @@ nav ul li a{
     border-style: none;
 
 }
+
+
+.sec2{
+   width: 70%;
+
+    /* margin-top:100px;
+    margin-left: 50px; */
+
+    height: 200px;
+
+    margin:0 auto;
+    margin-top: 50px;
+
+    border:2px solid rgb(244, 241, 241);
+    border-radius: 4px;
+
+    /* justify-content: space-between; */
+
+
+    background-color: rgb(225, 225, 244);
+    align-items: center;
+}
+
+.top h3{
+    margin:0 auto;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.down{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+
+    /* margin-top: 10px; */
+}
+.down h1{
+    font-weight: bold;
+    font-size: 3rem;
+    color: blue;
+}
